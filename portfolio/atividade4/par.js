@@ -3,11 +3,11 @@ function parouimpar(){
     
 
 
-    numero = Number(prompt("digite um numero"));
+    numero = Number(prompt("digite um Número"));
 
 
     if(numero % 2 == 0){
-        alert("O Numero é par");
+        alert("O Número é par");
 
     }
     else{
