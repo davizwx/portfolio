@@ -1,12 +1,25 @@
-.div{
-    
-    align-items: center;
-    color: rgb(255, 0, 0);
 
-
-    background-color: black;
+body{
+    background-color: aqua;
 }
-.image{
-    
-    background-image: url(https://picjumbo.com/free-photos/abstract-background/);
+main{
+    background-color: rgba(191, 6, 216, 0.473);
+}
+a p{
+    background-color: aliceblue;
+    width: 30%;
+    padding:10px;
+    font-weight:bold ;
+    border-radius: 5px;
+    text-align: center;
+    margin: 15px auto;
+    transition: 1s all;
+
+}
+a p:hover{
+    background-color: rgb(14, 131, 226);
+    transform: scale(1.2);
+}
+a p:active{
+    border-style: solid;
 }
