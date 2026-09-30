@@ -1,4 +1,4 @@
 function click() {
-    alert("Você clicou em mim >.<")
+    alert("Você clicou em mim -Sr Óbvio")
     
 }
